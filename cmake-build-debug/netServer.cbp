@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="netServer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clionTest">
+				<Option output="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/clionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clionTest"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="clionTest/fast">
+				<Option output="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/clionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gilfoyle/CLionProjects/netServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clionTest/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/main.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/net/CEpoll.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/net/CEpoll.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/net/CTcpServer.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/net/CTcpServer.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CCondition.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CCondition.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CCountDownLatch.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CCountDownLatch.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CMutex.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CMutex.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CThread.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CThread.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CThreadPool.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/thread/CThreadPool.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/utils/utils.cpp">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/utils/utils.h">
+			<Option target="clionTest"/>
+		</Unit>
+		<Unit filename="/home/gilfoyle/CLionProjects/netServer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

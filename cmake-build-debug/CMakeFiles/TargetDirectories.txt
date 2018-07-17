@@ -1,0 +1,3 @@
+/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gilfoyle/CLionProjects/netServer/cmake-build-debug/CMakeFiles/clionTest.dir
